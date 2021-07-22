@@ -1,0 +1,150 @@
+body{
+  margin: 0;
+}
+.headerbox{
+  height: 400px;
+  width: 1200px;
+   margin: auto;
+  margin-bottom: 15px;
+  background-image:url(https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png);
+    background-repeat:no repeat;
+  background-size: 1275px;
+ text-align:center;
+  font-family:abril fatface;
+  position: relative;
+}
+.nevdoboz{
+  width: 600px;
+}
+.anakin{
+  position: absolute;
+  top:200px;
+  left: 375px;
+  bottom: 0;
+  font-size:50px;
+  text-align: justify;
+  color:  #222 grey;
+  }  
+.para{
+  margin:0;  
+}
+.elso{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  margin: auto;
+  text-align: justify;
+  font-size: 23px;
+  width: 700px; 
+  height: 265px;  
+  padding: 15px;
+}
+.uralni{
+  height: 125px;
+  width:850px;
+  color: white;
+  background: rgb(68, 68, 68);
+   margin: auto;
+  text-align: center;
+  line-height: 125px;
+}
+.idezet1{
+  font-family: abril fatface;
+  font-size: 50px;
+  color: white;
+  text-alig: justify;
+  }
+  .hit{
+    height: 150px;
+  width:735px;
+  color: white;
+  background:rgb(68, 68, 68) ;
+    margin: auto;
+    padding: 25px;
+  text-align: justify;
+  }
+.idezet2{
+  font-family: abril fatface;
+  font-size: 50px;
+  color: white;
+  text-align: justify;
+  padding: 10px; 
+  margin-top: 0;
+}
+.mester{
+  height: 130px;
+  width:700px;
+  color: white;
+  background: rgb(68, 68, 68);
+ margin: auto;
+  text-align: justify;  
+   padding: 25px;
+}
+.idezet3{
+    font-family: abril fatface;
+  font-size: 50px;
+  color: white;
+  text-align: justify;
+  margin: auto;
+}
+.sikerek{
+  height: 300px;
+  width:700px;
+margin: auto;
+  font-family: Josefin Sans;
+  fot-size:23px;
+  color: #222 grey;
+  text-align: justify;
+}
+.masodik{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  margin: auto;
+  text-align: justify;
+  font-size: 23px;
+  width: 700px; 
+  height: 550px;
+}
+.utolso{
+  font-family: Josefin Sans;
+  color: #222 grey;
+  margin: auto;
+  text-align: justify;
+  font-size: 23px;
+  width: 700px; 
+  height: 550px;  
+}
+.personel{
+  height: 300px;
+  width:700px;
+margin: auto;
+  font-family: Josefin Sans;
+  fot-size: 30px;
+  color: #222 grey;
+  text-align: justify;
+}
+hr{
+  border: 2px solid black;
+}
+
+ul{
+  list-style-type: square;
+}
+h2{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 500;
+}
+h3{
+  text-decoration:bold;
+    font-weight: 900;
+  font-size:20px;
+  } 
+p {
+  text-decoration:bold;
+  margin-top:0;
+}
+blockquote::before {
+  content:'""';
+}
+h4{
+  font-family: Merriweather;
+}
